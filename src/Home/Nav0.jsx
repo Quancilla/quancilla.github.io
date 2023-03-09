@@ -73,7 +73,7 @@ class Header extends React.Component {
     return (
       <TweenOne
         component="header"
-        animation={{ opacity: 0, type: 'from' }}
+        animation={{ opacity: 1, type: 'from' }}
         {...dataSource.wrapper}
         {...props}
       >

@@ -14,13 +14,13 @@ function Content1(props) {
     one: isMobile
       ? {
           scaleY: '+=0.3',
-          opacity: 0,
+          opacity: 1,
           type: 'from',
           ease: 'easeOutQuad',
         }
       : {
           x: '-=30',
-          opacity: 0,
+          opacity: 1,
           type: 'from',
           ease: 'easeOutQuad',
         },
