@@ -83,9 +83,9 @@ export const Banner01DataSource = {
     children: (
       <span>
         <span>
-          <p>
+          <h2>
             Revolutionize Quantum Computing<br />
-          </p>
+          </h2>
         </span>
       </span>
     ),

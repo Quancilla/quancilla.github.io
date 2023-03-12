@@ -72,7 +72,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 # landing-ant-pro
+
 export NODE_OPTIONS=--openssl-legacy-provider
+npm config set legacy-peer-deps true
+
 @ant-design/cssinjs
 @ant-design/icons
 @ctrl/tinycolor
