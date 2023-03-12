@@ -1,15 +1,15 @@
 {
-  "main.css": "/static/css/main.bac56b49.chunk.css",
-  "main.js": "/static/js/main.8d91c659.chunk.js",
-  "main.js.map": "/static/js/main.8d91c659.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.42ac5946.js",
-  "runtime~main.js.map": "/static/js/runtime~main.42ac5946.js.map",
-  "static/css/2.d1b9a66e.chunk.css": "/static/css/2.d1b9a66e.chunk.css",
-  "static/js/2.ac9acdb4.chunk.js": "/static/js/2.ac9acdb4.chunk.js",
-  "static/js/2.ac9acdb4.chunk.js.map": "/static/js/2.ac9acdb4.chunk.js.map",
-  "index.html": "/index.html",
-  "precache-manifest.8d1b9d805e348f5082a770b44f901f74.js": "/precache-manifest.8d1b9d805e348f5082a770b44f901f74.js",
-  "service-worker.js": "/service-worker.js",
-  "static/css/2.d1b9a66e.chunk.css.map": "/static/css/2.d1b9a66e.chunk.css.map",
-  "static/css/main.bac56b49.chunk.css.map": "/static/css/main.bac56b49.chunk.css.map"
+  "main.css": "/quancilla.io/static/css/main.bac56b49.chunk.css",
+  "main.js": "/quancilla.io/static/js/main.e7a5eef0.chunk.js",
+  "main.js.map": "/quancilla.io/static/js/main.e7a5eef0.chunk.js.map",
+  "runtime~main.js": "/quancilla.io/static/js/runtime~main.a3f5adf2.js",
+  "runtime~main.js.map": "/quancilla.io/static/js/runtime~main.a3f5adf2.js.map",
+  "static/css/2.d1b9a66e.chunk.css": "/quancilla.io/static/css/2.d1b9a66e.chunk.css",
+  "static/js/2.ac9acdb4.chunk.js": "/quancilla.io/static/js/2.ac9acdb4.chunk.js",
+  "static/js/2.ac9acdb4.chunk.js.map": "/quancilla.io/static/js/2.ac9acdb4.chunk.js.map",
+  "index.html": "/quancilla.io/index.html",
+  "precache-manifest.002be8408061716198a42373e47db863.js": "/quancilla.io/precache-manifest.002be8408061716198a42373e47db863.js",
+  "service-worker.js": "/quancilla.io/service-worker.js",
+  "static/css/2.d1b9a66e.chunk.css.map": "/quancilla.io/static/css/2.d1b9a66e.chunk.css.map",
+  "static/css/main.bac56b49.chunk.css.map": "/quancilla.io/static/css/main.bac56b49.chunk.css.map"
 }
