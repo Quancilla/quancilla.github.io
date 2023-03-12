@@ -97,7 +97,9 @@ export const Banner01DataSource = {
       <span>
         <span>
           <span>
-            <p>Let's talk</p>
+            <p>
+              Let's talk
+              </p>
           </span>
         </span>
       </span>
@@ -239,7 +241,7 @@ export const Feature01DataSource = {
               <span>
                 <span>
                   <p>
-                    <b>Advantage</b>
+                    <h4>Advantage</h4>
                   </p>
                 </span>
               </span>
@@ -297,7 +299,7 @@ export const Feature01DataSource = {
               children: (
                 <span>
                   <span>
-                    <p>Optimizes resurese and <p1>hardware-aware</p1> system.</p>
+                    <p>Optimize resources and <p1>hardware-aware</p1> system.</p>
                   </span>
                 </span>
               ),
@@ -471,7 +473,7 @@ export const Feature50DataSource = {
                                                                                                                               >
                                                                                                                                 <h2
                                                                                                                                 >
-                                                                                                                                  API
+                                                                                                                                   A Game-Changer in the World of Quantum Computing
                                                                                                                                 </h2>
                                                                                                                                 <p
                                                                                                                                 >
@@ -479,23 +481,7 @@ export const Feature50DataSource = {
                                                                                                                                 </p>
                                                                                                                                 <blockquote
                                                                                                                                 >
-                                                                                                                                  <p1>Quancilla's</p1> 
-                                                                                                                                  unique
-                                                                                                                                  synthesizer
-                                                                                                                                  API
-                                                                                                                                  is
-                                                                                                                                  a
-                                                                                                                                  game-changer
-                                                                                                                                  in
-                                                                                                                                  the
-                                                                                                                                  world
-                                                                                                                                  of
-                                                                                                                                  <p1> quantum
-                                                                                                                                  computing.</p1> 
-                                                                                                                                </blockquote>
-                                                                                                                                <blockquote
-                                                                                                                                >
-                                                                                                                                  The&nbsp;
+                                                                                                                                  <p1>Quancilla's </p1>
                                                                                                                                   platform
                                                                                                                                   is
                                                                                                                                   designed
@@ -510,20 +496,20 @@ export const Feature50DataSource = {
                                                                                                                                   of
                                                                                                                                   users,
                                                                                                                                   including
-                                                                                                                                  <p1> companies</p1> 
+                                                                                                                                  <p1> companies </p1> 
                                                                                                                                   and
                                                                                                                                   researchers
                                                                                                                                   who
                                                                                                                                   want
                                                                                                                                   to
                                                                                                                                   <p1> test
-                                                                                                                                  hardware</p1> ,
+                                                                                                                                  hardware</p1>,
                                                                                                                                   <p1> develop
                                                                                                                                   quantum
-                                                                                                                                  applications</p1> ,
+                                                                                                                                  applications</p1>,
                                                                                                                                   and
                                                                                                                                   <p1> evaluate
-                                                                                                                                  performance</p1> .
+                                                                                                                                  performance</p1>. 
                                                                                                                                   Whether
                                                                                                                                   you're
                                                                                                                                   an
@@ -587,7 +573,7 @@ export const Feature50DataSource = {
                                                                                                                                   applications.&nbsp;
                                                                                                                                   What
                                                                                                                                   sets
-                                                                                                                                  <p1> Quancilla's</p1> 
+                                                                                                                                  <p1> Quancilla's </p1> 
                                                                                                                                   synthesizer
                                                                                                                                   API
                                                                                                                                   apart
@@ -959,7 +945,7 @@ export const Feature50DataSource = {
                                                                                                             During
                                                                                                             runtime,
                                                                                                             our
-                                                                                                            <p1> synthesizer<p1> 
+                                                                                                            <p1> synthesizer </p1> 
                                                                                                             generates
                                                                                                             three
                                                                                                             different
@@ -1013,9 +999,7 @@ export const Feature50DataSource = {
                                                                                                             synthesizer
                                                                                                             also
                                                                                                             conisderd 
-                                                                                                            <p1> error-correction</p1> 
-                                                                                                            and
-                                                                                                            <p1> noise-reduction</p1> 
+                                                                                                            <p1> error-correction and noise-reduction </p1> 
                                                                                                             features,
                                                                                                             ensuring
                                                                                                             that
@@ -1052,7 +1036,7 @@ export const Feature50DataSource = {
                                                                                                             sweet
                                                                                                             spot
                                                                                                             between
-                                                                                                            the<p1> 
+                                                                                                            the <p1> 
                                                                                                             depth
                                                                                                             of
                                                                                                             the
@@ -1068,7 +1052,7 @@ export const Feature50DataSource = {
                                                                                                             and
                                                                                                             the
                                                                                                             user's
-                                                                                                            preferences.</p1>
+                                                                                                            preferences. </p1>
                                                                                                             This
                                                                                                             trade-off
                                                                                                             allows
@@ -1181,6 +1165,9 @@ export const Feature50DataSource = {
     className: 'ant-tabs-line ant-tabs lf2a2329nwm-editor_css ant-tabs-top',
   },
 };
+
+
+
 export const Content111DataSource = {
   OverPack: {
     className: 'home-page-wrapper content11-wrapper lf2khp9ycmo-editor_css',
