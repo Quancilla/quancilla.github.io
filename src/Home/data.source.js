@@ -83,9 +83,9 @@ export const Banner01DataSource = {
     children: (
       <span>
         <span>
-          <h2>
+          <h3>
             Revolutionize Quantum Computing<br />
-          </h2>
+          </h3>
         </span>
       </span>
     ),
@@ -119,7 +119,7 @@ export const Feature10DataSource = {
     className: 'content1-title leyezlen46m-editor_css',
     children: (
       <span>
-        <p>Misson</p>
+        <h4>Misson</h4>
       </span>
     ),
   },
@@ -182,7 +182,7 @@ export const Feature20DataSource = {
               <span>
                 <span>
                   <span>
-                    <p>The Process</p>
+                    <h4>The Process</h4>
                   </span>
                 </span>
               </span>
@@ -937,12 +937,7 @@ export const Feature50DataSource = {
                                                                                                       >
                                                                                                         <span
                                                                                                         >
-                                                                                                          <h2
-                                                                                                          >
-                                                                                                            <b
-                                                                                                            >
-                                                                                                              <i
-                                                                                                              >
+                                                                                                          <h2>
                                                                                                                 Mapping
                                                                                                                 Real-Life
                                                                                                                 Problems
@@ -953,8 +948,6 @@ export const Feature50DataSource = {
                                                                                                                 Never
                                                                                                                 Been
                                                                                                                 Easier
-                                                                                                              </i>
-                                                                                                            </b>
                                                                                                           </h2>
                                                                                                           <p
                                                                                                           >
@@ -1281,7 +1274,7 @@ export const Content111DataSource = {
     children: {
       a: {
         className: 'button',
-        href: '#',
+        href: 'mailto:saarbk1+quancilla@gmail.com',
         children: (
           <span>
             <p>Let's talk</p>
