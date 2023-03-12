@@ -68,3 +68,16 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+# landing-ant-pro
+export NODE_OPTIONS=--openssl-legacy-provider
+@ant-design/cssinjs
+@ant-design/icons
+@ctrl/tinycolor
+
+
+To install them, you can run: npm install  @antd/theme/util/alias 
+    "antd": "^3.26.20",
+npm config set legacy-peer-deps true
