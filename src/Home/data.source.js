@@ -31,13 +31,13 @@ export const Nav01DataSource = {
         name: 'item2',
         className: 'header0-item ley9vtxpylp-editor_css',
         children: {
-          href: 'mailto:saarbk1+quancilla@gmail.com',
+          href: 'mailto:quancilla@mail.com',
           children: [
             {
               children: (
                 <span>
                   <span>
-                    <p>Contact</p>
+                    <p1>Contact</p1>
                   </span>
                 </span>
               ),
@@ -92,14 +92,12 @@ export const Banner01DataSource = {
   },
   button: {
     className: 'banner0-button lews0l2kjf-editor_css',
-    href: 'mailto:saarbk1+quancilla@gmail.com',
+    href: 'https://docs.google.com/forms/d/e/1FAIpQLSfKWdjs5kOHRbFvqOyxGBIkFRrl4--ENQaq6kdPTegp2KM1Wg/viewform?usp=sf_link',
     children: (
       <span>
         <span>
           <span>
-            <p>
-              Let's talk
-              </p>
+            <p>Stay tuned</p>
           </span>
         </span>
       </span>
@@ -947,14 +945,13 @@ export const Feature50DataSource = {
                                                                                                             our
                                                                                                             <p1> synthesizer </p1> 
                                                                                                             generates
-                                                                                                            three
                                                                                                             different
                                                                                                             circuits
                                                                                                             based
                                                                                                             on
                                                                                                             the
                                                                                                             problem
-                                                                                                            instant
+                                                                                                            <p1> instant </p1>
                                                                                                             and
                                                                                                             user
                                                                                                             preference.
@@ -1260,7 +1257,7 @@ export const Content111DataSource = {
     children: {
       a: {
         className: 'button',
-        href: 'mailto:saarbk1+quancilla@gmail.com',
+        href: 'mailto:quancilla@mail.com',
         children: (
           <span>
             <p>Let's talk</p>
