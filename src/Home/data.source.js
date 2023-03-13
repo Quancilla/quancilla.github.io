@@ -6,69 +6,6 @@ export const Nav01DataSource = {
     className: 'header0-logo',
     children: 'https://saarbk.github.io/Quancila-logo-blue.png',
   },
-  Menu: {
-    className: 'header0-menu leya0oyxhrs-editor_css',
-    children: [
-      {
-        name: 'item1',
-        className: 'header0-item ley9icmt1y9-editor_css',
-        children: {
-          href: '#ley5rsmpcba-editor_css',
-          children: [
-            {
-              children: (
-                <span>
-                  <p>About</p>
-                </span>
-              ),
-              name: 'text',
-              className: 'ley7sbcf1m8-editor_css',
-            },
-          ],
-        },
-      },
-      {
-        name: 'item2',
-        className: 'header0-item ley9vtxpylp-editor_css',
-        children: {
-          href: '#',
-          children: [
-            {
-              children: (
-                <span>
-                  <span>
-                    <p>Solution</p>
-                  </span>
-                </span>
-              ),
-              name: 'text',
-            },
-          ],
-        },
-        subItem: null,
-      },
-      {
-        name: 'item3',
-        className: 'header0-item ley9uy5cxm-editor_css',
-        children: {
-          href: '#',
-          children: [
-            {
-              children: (
-                <span>
-                  <span>
-                    <p>Contact</p>
-                  </span>
-                </span>
-              ),
-              name: 'text',
-            },
-          ],
-          target: '',
-        },
-      },
-    ],
-  },
   mobileMenu: { className: 'header0-mobile-menu' },
 };
 export const Banner01DataSource = {

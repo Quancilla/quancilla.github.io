@@ -21,9 +21,33 @@
       Unlike "/favicon.ico" or "favicon.ico", "%PUBLIC_URL%/favicon.ico" will
       work correctly both with client-side routing and a non-root public URL.
       Learn how to configure a non-root public URL by running `npm run build`.
+
+        Build:
+
+      npm install --save --legacy-peer-deps
+
+      export NODE_OPTIONS=--openssl-legacy-provider
+
+      npm config set legacy-peer-deps true
+
+      npm run deploy
+
+To install them, you can run: npm install  @antd/theme/util/alias 
+    "antd": "^3.26.20",
+npm config set legacy-peer-deps true
+
     -->
     <title>Quancilla</title>
   </head>
+  <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-GTKT6NLHNX"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-GTKT6NLHNX');
+</script>
   <body>
     <noscript>You need to enable JavaScript to run this app.</noscript>
     <div id="root"></div>
