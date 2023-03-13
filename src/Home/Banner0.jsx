@@ -16,7 +16,7 @@ class Banner extends React.PureComponent {
         <QueueAnim
           key="QueueAnim"
           type={['bottom', 'top']}
-          delay={200}
+          delay={250}
           {...dataSource.textWrapper}
         >
           <div key="title" {...dataSource.title}>

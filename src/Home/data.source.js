@@ -6,6 +6,69 @@ export const Nav01DataSource = {
     className: 'header0-logo',
     children: 'https://saarbk.github.io/Quancila-logo-blue.png',
   },
+  Menu: {
+    className: 'header0-menu leya0oyxhrs-editor_css',
+    children: [
+      {
+        name: 'item1',
+        className: 'header0-item ley9icmt1y9-editor_css',
+        children: {
+          href: '#',
+          children: [
+            {
+              children: (
+                <span>
+                  <p>About</p>
+                </span>
+              ),
+              name: 'text',
+              className: 'ley7sbcf1m8-editor_css',
+            },
+          ],
+        },
+      },
+      {
+        name: 'item2',
+        className: 'header0-item ley9vtxpylp-editor_css',
+        children: {
+          href: 'mailto:saarbk1+quancilla@gmail.com',
+          children: [
+            {
+              children: (
+                <span>
+                  <span>
+                    <p>Contact</p>
+                  </span>
+                </span>
+              ),
+              name: 'text',
+            },
+          ],
+        },
+        subItem: null,
+      },
+      {
+        name: 'item3',
+        className: 'header0-item ley9uy5cxm-editor_css',
+        children: {
+          href: 'https://docs.google.com/forms/d/e/1FAIpQLSfKWdjs5kOHRbFvqOyxGBIkFRrl4--ENQaq6kdPTegp2KM1Wg/viewform?usp=sf_link',
+          children: [
+            {
+              children: (
+                <span>
+                  <span>
+                    <p>Subscribe</p>
+                  </span>
+                </span>
+              ),
+              name: 'text',
+            },
+          ],
+          target: '',
+        },
+      },
+    ],
+  },
   mobileMenu: { className: 'header0-mobile-menu' },
 };
 export const Banner01DataSource = {
@@ -1218,6 +1281,16 @@ export const Footer20DataSource = {
   copyright: {
     className: 'copyright',
     children: [
+      {
+        name: 'copyright',
+        href: 'https://docs.google.com/forms/d/e/1FAIpQLSfKWdjs5kOHRbFvqOyxGBIkFRrl4--ENQaq6kdPTegp2KM1Wg/viewform?usp=sf_link',
+        children: (
+          <span>
+            <p>Subscribe</p>
+          </span>
+        ),
+        className: 'copyright-text lezh90jkro-editor_css',
+      },
       {
         name: 'image2',
         children:
