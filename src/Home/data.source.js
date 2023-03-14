@@ -289,7 +289,7 @@ export const Feature01DataSource = {
             {
               name: 'image',
               className: 'content0-block-icon leycio1i9ek-editor_css',
-              children: 'https://saarbk.github.io/icon3.png',
+              children: 'https://saarbk.github.io/icon1.png',
             },
             {
               name: 'title',
@@ -297,7 +297,7 @@ export const Feature01DataSource = {
               children: (
                 <span>
                   <span>
-                    <p>Optimize resources and <p1>hardware-aware</p1> system.</p>
+                    <p>Optimize resources & <p1>hardware-aware</p1> system.</p>
                   </span>
                 </span>
               ),
@@ -316,7 +316,7 @@ export const Feature01DataSource = {
             {
               name: 'image',
               className: 'content0-block-icon',
-              children: 'https://saarbk.github.io/icon1.png',
+              children: 'https://saarbk.github.io/icon3.png',
             },
             {
               name: 'title',
@@ -325,7 +325,6 @@ export const Feature01DataSource = {
                 <span>
                   <span>
                     <p> <p1>No</p1> code change required </p>
-                    <p>optimized and hardware-aware system.</p>
                   </span>
                 </span>
               ),
