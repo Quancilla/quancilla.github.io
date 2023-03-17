@@ -26,7 +26,7 @@ class Content11 extends React.PureComponent {
           key="button"
           style={{ textAlign: 'center' }}
           {...dataSource.button}
-          animation={{ y: 30, opacity: 0, type: 'from', delay: 300 }}
+          animation={{ y: 38, opacity: 0, type: 'from', delay: 300 }}
         >
           <Button {...dataSource.button.children.a}>
             {dataSource.button.children.a.children}
