@@ -36,7 +36,7 @@ class Banner extends React.PureComponent {
         </QueueAnim>
         <TweenOne
           animation={{
-            y: '-=20',
+            y: '-=28',
             yoyo: true,
             repeat: -1,
             duration: 1000,
