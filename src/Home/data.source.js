@@ -1268,7 +1268,7 @@ export const Content111DataSource = {
 };
 export const Footer20DataSource = {
   wrapper: {
-    className: 'home-page-wrapper footer2-wrapper lf2li953vi-editor_css',
+    className: ' footer2-wrapper lf2li953vi-editor_css',
   },
   OverPack: {
     className: 'home-page footer2 lezh9qwra4-editor_css',
