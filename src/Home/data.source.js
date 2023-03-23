@@ -1316,3 +1316,186 @@ export const Footer20DataSource = {
     ],
   },
 };
+export const Footer11DataSource = {
+  wrapper: {
+    className: 'home-page-wrapper footer1-wrapper lfl0r5zk7r-editor_css',
+  },
+  OverPack: { className: 'footer1', playScale: 0.2 },
+  block: {
+    className: 'home-page',
+    gutter: 0,
+    children: [
+      {
+        name: 'block0',
+        xs: 24,
+        md: 6,
+        className: 'block',
+        title: {
+          className: 'logo',
+          children: 'https://saarbk.github.io/Quancila-logo-with-cat-white.png',
+        },
+        childWrapper: {
+          className: 'slogan',
+          children: [
+            {
+              name: 'content0',
+              children: (
+                <span>
+                  <span>
+                    <span>
+                      <p>
+                        <br />
+                      </p>
+                    </span>
+                  </span>
+                </span>
+              ),
+            },
+          ],
+        },
+      },
+      {
+        name: 'block1',
+        xs: 24,
+        md: 6,
+        className: 'block ant-col-xs-24',
+        title: {
+          children: (
+            <span>
+              <span>
+                <span>
+                  <span>
+                    <p>Site Map</p>
+                  </span>
+                </span>
+              </span>
+            </span>
+          ),
+          className: 'lfl0y33gh4d-editor_css',
+        },
+        childWrapper: {
+          children: [
+            {
+              name: 'link0',
+              href: '#Feature2_0',
+              children: (
+                <span>
+                  <p>About</p>
+                </span>
+              ),
+            },
+            {
+              name: 'link1',
+              href: '#Feature1_0',
+              children: (
+                <span>
+                  <p>Misson</p>
+                </span>
+              ),
+            },
+            {
+              name: 'link3',
+              href: '#Banner0_1',
+              children: (
+                <span>
+                  <p>The Process</p>
+                </span>
+              ),
+            },
+          ],
+        },
+      },
+      {
+        name: 'block2',
+        xs: 24,
+        md: 6,
+        className: 'block',
+        title: {
+          children: (
+            <span>
+              <p>Subscribe</p>
+            </span>
+          ),
+          className: 'lfl0y4otxg9-editor_css',
+        },
+        childWrapper: {
+          children: [
+            {
+              href:
+                'https://docs.google.com/forms/d/e/1FAIpQLSfKWdjs5kOHRbFvqOyxGBIkFRrl4--ENQaq6kdPTegp2KM1Wg/viewform',
+              name: 'link0',
+              children: (
+                <span>
+                  <span>
+                    <p>Newsletter</p>
+                  </span>
+                </span>
+              ),
+              target: '',
+            },
+            {
+              href:
+                'https://docs.google.com/forms/d/e/1FAIpQLSfKWdjs5kOHRbFvqOyxGBIkFRrl4--ENQaq6kdPTegp2KM1Wg/viewform',
+              name: 'link1',
+              children: (
+                <span>
+                  <p>Beta</p>
+                </span>
+              ),
+              target: '',
+            },
+          ],
+        },
+      },
+      {
+        name: 'block3',
+        xs: 24,
+        md: 6,
+        className: 'block ant-col-xs-24 lfl12i976ak-editor_css',
+        title: {
+          children: (
+            <span>
+            </span>
+          ),
+          className: 'lfl0yob426h-editor_css',
+        },
+        childWrapper: {
+          children: [
+            {
+              name: 'image~lfl0kvtxusp',
+              className: '',
+              children: 'https://saarbk.github.io/in48w.png',
+              herf: 'https://saarbk.github.io/in48w.png',
+            },
+            {
+              name: 'image~lfl0kvtxusp',
+              className: '',
+              children: 'https://saarbk.github.io/git48white.png',
+            },
+            {
+              name: 'image~lfl0kvtxusp',
+              className: '',
+              children: 'https://saarbk.github.io/m48w.png',
+            },
+            {
+              name: 'image~lfl0kvtxusp',
+              className: '',
+              children: 'https://saarbk.github.io/p48w.png',
+            },
+          ],
+          className: 'lfl0lb6n5ah-editor_css',
+        },
+      },
+    ],
+  },
+  copyrightWrapper: { className: 'copyright-wrapper lfl0tgre1s8-editor_css' },
+  copyrightPage: { className: 'home-page' },
+  copyright: {
+    className: 'copyright',
+    children: (
+      <span>
+        Copyright ©2023 by <p1>Quancilla</p1> All Rights Reserved<br />
+      </span>
+    ),
+  },
+};
