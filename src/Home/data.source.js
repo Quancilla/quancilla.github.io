@@ -13,7 +13,7 @@ export const Nav01DataSource = {
         name: 'item1',
         className: 'header0-item ley9icmt1y9-editor_css',
         children: {
-          href: '#',
+          href: '#Feature1_0',
           children: [
             {
               children: (
@@ -31,13 +31,13 @@ export const Nav01DataSource = {
         name: 'item2',
         className: 'header0-item ley9vtxpylp-editor_css',
         children: {
-          href: 'mailto:quancilla@mail.com',
+          href: '#Footer1_1',
           children: [
             {
               children: (
                 <span>
                   <span>
-                    <p1>Contact</p1>
+                    <p>Contact</p>
                   </span>
                 </span>
               ),
@@ -1377,15 +1377,6 @@ export const Footer11DataSource = {
           children: [
             {
               name: 'link0',
-              href: '#Feature2_0',
-              children: (
-                <span>
-                  <p>About</p>
-                </span>
-              ),
-            },
-            {
-              name: 'link1',
               href: '#Feature1_0',
               children: (
                 <span>
@@ -1394,11 +1385,20 @@ export const Footer11DataSource = {
               ),
             },
             {
-              name: 'link3',
-              href: '#Banner0_1',
+              name: 'link1',
+              href: '#Feature2_0',
               children: (
                 <span>
-                  <p>The Process</p>
+                  <p>Solution</p>
+                </span>
+              ),
+            },
+            {
+              name: 'link3',
+              href: '#Feature5_0',
+              children: (
+                <span>
+                  <p>API Example</p>
                 </span>
               ),
             },
@@ -1462,25 +1462,34 @@ export const Footer11DataSource = {
         childWrapper: {
           children: [
             {
-              name: 'image~lfl0kvtxusp',
+              name: 'button1',
               className: '',
-              children: 'https://saarbk.github.io/in48w.png',
-              herf: 'https://saarbk.github.io/in48w.png',
+              href:  'https://www.linkedin.com/company/quancilla',
+              children: {
+                name: 'link1',
+                type: 'default',
+                className: 'lg0ixbekii-editor_css',
+              },
             },
             {
-              name: 'image~lfl0kvtxusp',
+              name: 'button2',
               className: '',
-              children: 'https://saarbk.github.io/git48white.png',
+              href:  'https://github.com/Quancilla',
+              children: {
+                name: 'link1',
+                type: 'default',
+                className: 'lg0ixbekii-editor_css',
+              },
             },
             {
-              name: 'image~lfl0kvtxusp',
+              name: 'button3',
               className: '',
-              children: 'https://saarbk.github.io/m48w.png',
-            },
-            {
-              name: 'image~lfl0kvtxusp',
-              className: '',
-              children: 'https://saarbk.github.io/p48w.png',
+              href:  '',
+              children: {
+                name: 'link1',
+                type: 'default',
+                className: 'lg0ixbekii-editor_css',
+              },
             },
           ],
           className: 'lfl0lb6n5ah-editor_css',
