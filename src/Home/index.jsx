@@ -7,6 +7,7 @@ import Nav0 from './Nav0';
 import Banner0 from './Banner0';
 import Feature1 from './Feature1';
 import Feature2 from './Feature2';
+import Content9 from './Content9';
 import Feature0 from './Feature0';
 import Feature5 from './Feature5';
 import Content11 from './Content11';
@@ -18,6 +19,7 @@ import {
   Banner01DataSource,
   Feature10DataSource,
   Feature20DataSource,
+  Content90DataSource,
   Feature01DataSource,
   Feature50DataSource,
   Content111DataSource,
@@ -84,6 +86,12 @@ export default class Home extends React.Component {
         id="Feature2_0"
         key="Feature2_0"
         dataSource={Feature20DataSource}
+        isMobile={this.state.isMobile}
+      />,
+      <Content9
+        id="Content9_0"
+        key="Content9_0"
+        dataSource={Content90DataSource}
         isMobile={this.state.isMobile}
       />,
       <Feature0
