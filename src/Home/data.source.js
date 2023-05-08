@@ -377,11 +377,11 @@ export const Content90DataSource = {
                               <span>
                                 <span>
                                   <p>
-                                    For Quantum Developers: Developing a reall
+                                    Quantum Developers: Developing a reall
                                     complex functionality application can be
                                     difficult due to the complexity of quantum
                                     circuits and the lack of tools available for
-                                    automation circuit base programing,
+                                    automation circuit generators,
                                     developing hybrid quantum-classical
                                     applications requires a deep understanding
                                     of both classical and quantum computing,
@@ -553,15 +553,11 @@ export const Content90DataSource = {
                   <span>
                     <span>
                       <span>
-                        <span>
-                          <span>
                             <p>
                               Uning. This lack of understanding and integration
                               limits the number of developers who can contribute
                               to quantum computing<br />
                             </p>
-                          </span>
-                        </span>
                       </span>
                     </span>
                   </span>
