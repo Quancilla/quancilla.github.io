@@ -118,7 +118,7 @@ export const Feature10DataSource = {
   textWrapper: { className: 'content1-text', md: 14, xs: 24 },
   title: {
     className: 'content1-title leyezlen46m-editor_css',
-    id : '1',
+    id: '1',
     children: (
       <span>
         <h4>Mission</h4>
@@ -204,7 +204,7 @@ export const Feature20DataSource = {
                 <span>
                   <p>
                     <p1>Quancilla </p1> is a unified framework for developing <p1>quantum
-                    functions as a service</p1>. By combining hybrid quantum and
+                      functions as a service</p1>. By combining hybrid quantum and
                     classical methods.
                   </p>
                   <p>
@@ -320,12 +320,7 @@ export const Content90DataSource = {
             children: (
               <span>
                 <span>
-                  Understanding the complex mathematics and physics behind
-                  quantum computing can be daunting. Additionally, quantum
-                  circuits are fundamentally different from classical circuits,
-                  which makes integrating them into applications challenging.
-                  This lack of understanding and integration limits the number
-                  of developers who can contribute to quantum computing<p>
+                  Understanding <p>
                     <br />
                   </p>
                 </span>
@@ -367,34 +362,11 @@ export const Content90DataSource = {
             className: 'block-title lheqiduwvp-editor_css',
             children: (
               <span>
-                <span>
-                  <span>
-                    <span>
-                      <span>
-                        <span>
-                          <span>
-                            <span>
-                              <span>
-                                <span>
-                                  <p>
-                                    Quantum Developers: Developing a reall
-                                    complex functionality application can be
-                                    difficult due to the complexity of quantum
-                                    circuits and the lack of tools available for
-                                    automation circuit generators,
-                                    developing hybrid quantum-classical
-                                    applications requires a deep understanding
-                                    of both classical and quantum computing,
-                                  </p>
-                                </span>
-                              </span>
-                            </span>
-                          </span>
-                        </span>
-                      </span>
-                    </span>
-                  </span>
-                </span>
+                <p>
+                  For Quantum Developers: Developing a complex functionality application can be difficult due to the complexity of quantum circuits and the lack of automation tools available for circuit design.
+                  Developing these applications requires a deep understanding of both classical and quantum computing.
+                </p>
+
               </span>
             ),
           },
@@ -409,9 +381,7 @@ export const Content90DataSource = {
                         <span>
                           <span>
                             <p>
-                              Uning. This lack of understanding and integration
-                              limits the number of developers who can contribute
-                              to quantum computing<br />
+                              Uning.<br />
                             </p>
                           </span>
                         </span>
@@ -457,91 +427,12 @@ export const Content90DataSource = {
             className: 'block-title lheqiduwvp-editor_css',
             children: (
               <span>
-                <span>
-                  <span>
-                    <span>
-                      <span>
-                        <span>
-                          <span>
-                            <span>
-                              <span>
-                                <span>
-                                  <span>
-                                    <span>
-                                      <span>
-                                        <span>
-                                          <span>
-                                            <span>
-                                              <span>
-                                                <span>
-                                                  <span>
-                                                    <span>
-                                                      <span>
-                                                        <span>
-                                                          <span>
-                                                            <span>
-                                                              <span>
-                                                                <p1>
-                                                                  Quancilla
-                                                                  development
-                                                                  paradigm can
-                                                                  take advantage
-                                                                  of our quantum
-                                                                  synthesizer to
-                                                                  generate
-                                                                  optimized
-                                                                  quantum
-                                                                  circuits
-                                                                  during
-                                                                  runtime. This
-                                                                  approach
-                                                                  simplifies the
-                                                                  development
-                                                                  process and
-                                                                  reduces
-                                                                  development
-                                                                  time while
-                                                                  improving
-                                                                  application
-                                                                  performance,
-                                                                  by offering an
-                                                                  easy
-                                                                  integration
-                                                                  between
-                                                                  classical and
-                                                                  quantum
-                                                                  components,
-                                                                  which opens up
-                                                                  new
-                                                                  opportunities
-                                                                  for developing
-                                                                  complex custom
-                                                                  applications<br />
-                                                                </p1>
-                                                              </span>
-                                                            </span>
-                                                          </span>
-                                                        </span>
-                                                      </span>
-                                                    </span>
-                                                  </span>
-                                                </span>
-                                              </span>
-                                            </span>
-                                          </span>
-                                        </span>
-                                      </span>
-                                    </span>
-                                  </span>
-                                </span>
-                              </span>
-                            </span>
-                          </span>
-                        </span>
-                      </span>
-                    </span>
-                  </span>
-                </span>
+
+                <p1>
+                  The Quancilla development paradigm enables the synthesis of optimized quantum circuits during runtime. This approach simplifies the development procedure and reduces development time while improving application performance. Our easy classical-quantum integration opens up new opportunities for developing complex quantum applications<br />
+                  <br />
+                </p1>
+
               </span>
             ),
           },
@@ -553,11 +444,9 @@ export const Content90DataSource = {
                   <span>
                     <span>
                       <span>
-                            <p>
-                              Uning. This lack of understanding and integration
-                              limits the number of developers who can contribute
-                              to quantum computing<br />
-                            </p>
+                        <p>
+                          Uning. <br />
+                        </p>
                       </span>
                     </span>
                   </span>
@@ -816,7 +705,7 @@ export const Feature50DataSource = {
                                                                                                                               >
                                                                                                                                 <h2
                                                                                                                                 >
-                                                                                                                                   A Game-Changer in the World of Quantum Computing
+                                                                                                                                  A Game-Changer in the World of Quantum Computing
                                                                                                                                 </h2>
                                                                                                                                 <p
                                                                                                                                 >
@@ -839,20 +728,20 @@ export const Feature50DataSource = {
                                                                                                                                   of
                                                                                                                                   users,
                                                                                                                                   including
-                                                                                                                                  <p1> companies </p1> 
+                                                                                                                                  <p1> companies </p1>
                                                                                                                                   and
                                                                                                                                   researchers
                                                                                                                                   who
                                                                                                                                   want
                                                                                                                                   to
                                                                                                                                   <p1> test
-                                                                                                                                  hardware</p1>,
+                                                                                                                                    hardware</p1>,
                                                                                                                                   <p1> develop
-                                                                                                                                  quantum
-                                                                                                                                  applications</p1>,
+                                                                                                                                    quantum
+                                                                                                                                    applications</p1>,
                                                                                                                                   and
                                                                                                                                   <p1> evaluate
-                                                                                                                                  performance</p1>. 
+                                                                                                                                    performance</p1>.
                                                                                                                                   Whether
                                                                                                                                   you're
                                                                                                                                   an
@@ -887,7 +776,7 @@ export const Feature50DataSource = {
                                                                                                                                   world
                                                                                                                                   of
                                                                                                                                   <p1> quantum
-                                                                                                                                  computing</p1> 
+                                                                                                                                    computing</p1>
                                                                                                                                 </blockquote>
                                                                                                                                 <p
                                                                                                                                 >
@@ -916,7 +805,7 @@ export const Feature50DataSource = {
                                                                                                                                   applications.&nbsp;
                                                                                                                                   What
                                                                                                                                   sets
-                                                                                                                                  <p1> Quancilla's </p1> 
+                                                                                                                                  <p1> Quancilla's </p1>
                                                                                                                                   synthesizer
                                                                                                                                   API
                                                                                                                                   apart
@@ -1268,17 +1157,17 @@ export const Feature50DataSource = {
                                                                                                       >
                                                                                                         <span
                                                                                                         >
-                                                                                                          <h2> 
-                                                                                                                Mapping
-                                                                                                                Real-Life
-                                                                                                                Problems
-                                                                                                                to
-                                                                                                                Quantum
-                                                                                                                Circuits
-                                                                                                                Has
-                                                                                                                Never
-                                                                                                                Been
-                                                                                                                Easier
+                                                                                                          <h2>
+                                                                                                            Mapping
+                                                                                                            Real-Life
+                                                                                                            Problems
+                                                                                                            to
+                                                                                                            Quantum
+                                                                                                            Circuits
+                                                                                                            Has
+                                                                                                            Never
+                                                                                                            Been
+                                                                                                            Easier
                                                                                                           </h2>
                                                                                                           <p
                                                                                                           >
@@ -1288,7 +1177,7 @@ export const Feature50DataSource = {
                                                                                                             During
                                                                                                             runtime,
                                                                                                             our
-                                                                                                            <p1> synthesizer </p1> 
+                                                                                                            <p1> synthesizer </p1>
                                                                                                             generates
                                                                                                             different
                                                                                                             circuits
@@ -1340,8 +1229,8 @@ export const Feature50DataSource = {
                                                                                                             Our
                                                                                                             synthesizer
                                                                                                             also
-                                                                                                            conisderd 
-                                                                                                            <p1> error-correction and noise-reduction </p1> 
+                                                                                                            conisderd
+                                                                                                            <p1> error-correction and noise-reduction </p1>
                                                                                                             features,
                                                                                                             ensuring
                                                                                                             that
@@ -1378,23 +1267,23 @@ export const Feature50DataSource = {
                                                                                                             sweet
                                                                                                             spot
                                                                                                             between
-                                                                                                            the <p1> 
-                                                                                                            depth
-                                                                                                            of
-                                                                                                            the
-                                                                                                            compiled
-                                                                                                            circuit/transformer,
-                                                                                                            a
-                                                                                                            classic
-                                                                                                            optimizer,
-                                                                                                            the
-                                                                                                            hardware
-                                                                                                            in
-                                                                                                            use,
-                                                                                                            and
-                                                                                                            the
-                                                                                                            user's
-                                                                                                            preferences. </p1>
+                                                                                                            the <p1>
+                                                                                                              depth
+                                                                                                              of
+                                                                                                              the
+                                                                                                              compiled
+                                                                                                              circuit/transformer,
+                                                                                                              a
+                                                                                                              classic
+                                                                                                              optimizer,
+                                                                                                              the
+                                                                                                              hardware
+                                                                                                              in
+                                                                                                              use,
+                                                                                                              and
+                                                                                                              the
+                                                                                                              user's
+                                                                                                              preferences. </p1>
                                                                                                             This
                                                                                                             trade-off
                                                                                                             allows
@@ -1810,7 +1699,7 @@ export const Footer11DataSource = {
             {
               name: 'button1',
               className: '',
-              href:  'https://www.linkedin.com/company/quancilla',
+              href: 'https://www.linkedin.com/company/quancilla',
               children: {
                 name: 'link1',
                 type: 'default',
@@ -1820,7 +1709,7 @@ export const Footer11DataSource = {
             {
               name: 'button2',
               className: '',
-              href:  'https://github.com/Quancilla',
+              href: 'https://github.com/Quancilla',
               children: {
                 name: 'link1',
                 type: 'default',
@@ -1830,7 +1719,7 @@ export const Footer11DataSource = {
             {
               name: 'button3',
               className: '',
-              href:  '',
+              href: '',
               children: {
                 name: 'link1',
                 type: 'default',
