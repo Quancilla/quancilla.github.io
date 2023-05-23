@@ -51,7 +51,7 @@ export const Nav01DataSource = {
         name: 'item3',
         className: 'header0-item ley9uy5cxm-editor_css',
         children: {
-          href: 'https://docs.google.com/forms/d/e/1FAIpQLSfKWdjs5kOHRbFvqOyxGBIkFRrl4--ENQaq6kdPTegp2KM1Wg/viewform?usp=sf_link',
+          //href: 'https://docs.google.com/forms/d/e/1FAIpQLSfKWdjs5kOHRbFvqOyxGBIkFRrl4--ENQaq6kdPTegp2KM1Wg/viewform?usp=sf_link',
           children: [
             {
               children: (
@@ -97,7 +97,7 @@ export const Banner01DataSource = {
       <span>
         <span>
           <span>
-            <p>Stay tuned</p>
+            <p>Subscribe</p>
           </span>
         </span>
       </span>
