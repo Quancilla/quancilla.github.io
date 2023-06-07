@@ -261,7 +261,7 @@ export const Content90DataSource = {
           img: {
             className: 'block-img lhep8dinuyp-editor_css',
             children:
-              'https://lh3.googleusercontent.com/u/0/drive-viewer/AFGJ81poImx9szk31TaXmdIp8I12JpZVSLQZ28YmT57i_iMkuSGtrKHhHrP6N3i0OqMyWCvrs_sNsjy2zWG_Hb9CHA7Bz-eq=w1680-h939',
+              'https://raw.githubusercontent.com/Quancilla/quancilla.github.io/main/public/Cdevi.png',
           },
           icon: {
             className: 'block-icon',
@@ -339,7 +339,7 @@ export const Content90DataSource = {
           img: {
             className: 'block-img lhep8dinuyp-editor_css',
             children:
-              'https://lh3.googleusercontent.com/u/0/drive-viewer/AFGJ81rF739bVarCIkmnVuTa3XY6GYVyk5wTiaGFvmg9wgIVTiWizjeDfWVlVLXc7Wg2AY-gFZqeaiPFVQdiKhHqtry-PSGQfQ=w1680-h939',
+              'https://raw.githubusercontent.com/Quancilla/quancilla.github.io/main/public/Qdev1.png',
           },
           icon: {
             className: 'block-icon lhesld69os-editor_css',
@@ -404,7 +404,7 @@ export const Content90DataSource = {
           img: {
             className: 'block-img lhep8dinuyp-editor_css',
             children:
-              'https://lh3.googleusercontent.com/u/0/drive-viewer/AFGJ81r5oIZN336MG4lzGIzf1wzj-NAfNNgHeG2Sfsy1KaQp6QZOTywzh89mcsl-ZVnRGNlO3u-tAgdODx1PKgXrivvwRxnC3A=w1680-h939',
+              'https://raw.githubusercontent.com/Quancilla/quancilla.github.io/main/public/Quadevi.png',
           },
           icon: {
             className: 'block-icon lhesm5nuspe-editor_css',
